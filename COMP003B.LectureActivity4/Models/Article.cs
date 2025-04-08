@@ -1,8 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
+
 namespace COMP003B.LectureActivity4.Models
 {
-    public class Article
+   public class Article
     {
         public int Id { get; set; }
 
